@@ -1,3 +1,7 @@
+### Quick takeaway
+With lower scaling factors (0.2/0.2), motion looks smoother and more conservative.
+With higher scaling factors (1.0/1.0), motion is faster but appears less smooth.
+(Notes logged in `results/results.csv`.)
 # Project A — MoveIt2 Demo (ROS2 Humble)
 
 ## What
