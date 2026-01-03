@@ -1,4 +1,4 @@
-## Project A — MoveIt2 Motion Planning (ROS2 Humble)
+- A/B test log: `projectA_moveit2/results/results.csv`## Project A — MoveIt2 Motion Planning (ROS2 Humble)
 - ✅ Demo: `projectA_moveit2/assets/demo_v0_1.mp4` (click to preview)
 - ✅ Details: `projectA_moveit2/README.md`
 - Environment: Win11 + WSL2 Ubuntu 22.04, ROS2 Humble, RViz2 (software rendering)
