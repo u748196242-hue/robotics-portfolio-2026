@@ -1,0 +1,8 @@
+setting,velocity_scale,accel_scale,trial,notes
+A,1.0,1.0,1,fast, ok
+A,1.0,1.0,2,fast, trajectory looks sharper
+A,1.0,1.0,3,fast, less smooth
+B,0.2,0.2,1,slow, smoother
+B,0.2,0.2,2,slow, more stable
+B,0.2,0.2,3,slow, ok
+
