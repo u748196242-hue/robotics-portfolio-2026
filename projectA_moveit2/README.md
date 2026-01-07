@@ -49,3 +49,9 @@ Interpretation: lower scaling (0.2/0.2) is more conservative and showed higher s
 
     cd projectA_moveit2/analysis
     python3 analyze_results.py
+
+## Week 1 summary output
+You can generate a saved summary text file with:
+
+    cd projectA_moveit2/analysis
+    python3 analyze_results.py > week1_summary.txt

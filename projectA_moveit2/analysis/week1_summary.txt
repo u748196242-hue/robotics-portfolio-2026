@@ -1,0 +1,16 @@
+=== MoveIt2 A/B Summary ===
+Total trials: 20
+
+[A] trials=10
+  plan_success: 9/10 = 90.00% (fail=1)
+  exec_success: 9/10 = 90.00% (fail=1)
+  planning_time_s: n=0 (all NA)
+
+[B] trials=10
+  plan_success: 10/10 = 100.00% (fail=0)
+  exec_success: 10/10 = 100.00% (fail=0)
+  planning_time_s: n=0 (all NA)
+
+=== A vs B (quick) ===
+Plan success: A=90.00%, B=100.00%
+Exec success: A=90.00%, B=100.00%
