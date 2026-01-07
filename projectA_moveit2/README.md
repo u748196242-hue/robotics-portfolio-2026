@@ -40,3 +40,10 @@ results/results.csv
 Quick takeaway (initial)
 Lower scaling (0.2/0.2) looks more conservative/smoother.
 Higher scaling (1.0/1.0) is faster but may appear less smooth.
+
+## Results (Week 1 Summary)
+Based on 20 trials (A: 10, B: 10):
+- A (1.0/1.0): plan_success = 9/10 (90%), exec_success = 9/10 (90%)
+- B (0.2/0.2): plan_success = 10/10 (100%), exec_success = 10/10 (100%)
+
+Interpretation: lower scaling (0.2/0.2) is more conservative and showed higher success in this small test set.
